@@ -1,0 +1,154 @@
+{
+  "success": true,
+  "data": {
+    "items": [
+      {
+        "sku": "N70013947V",
+        "sku_config": "N70013947V",
+        "catalog_sku": "N70013947V-1",
+        "offer_code": "ba1f1f12eeb35b6c",
+        "name": "Vivobook Go 15 (Upgraded Version) Laptop With 15.6-Inch Display, Core i3-N305 Processor/8GB RAM/256GB SSD/Intel UHD Graphics/Windows 11 Home English/Arabic Cool Silver",
+        "brand": "ASUS",
+        "brand_code": "asus",
+        "slug": "vivobook-go-15-upgraded-version-laptop-with-15-6-inch-display-core-i3-n305-processor-8gb-ram-256gb-ssd-intel-uhd-graphics-windows-11-home-english-arabic-cool-silver",
+        "product_url": "https://www.noon.com/uae-en/vivobook-go-15-upgraded-version-laptop-with-15-6-inch-display-core-i3-n305-processor-8gb-ram-256gb-ssd-intel-uhd-graphics-windows-11-home-english-arabic-cool-silver/N70013947V/p",
+        "price": 1499,
+        "original_price": 1929,
+        "discount_percent": 22,
+        "image_url": "https://f.nooncdn.com/p/pzsku/ZF5986FE4DD9A5D186028Z/45/_/1779791671/9af29cb5-15f4-47fb-8b0b-a1e3a65fdae0.jpg",
+        "image_urls": [
+          "https://f.nooncdn.com/p/pzsku/ZF5986FE4DD9A5D186028Z/45/_/1779791671/9af29cb5-15f4-47fb-8b0b-a1e3a65fdae0.jpg",
+          "https://f.nooncdn.com/p/pzsku/ZF5986FE4DD9A5D186028Z/45/_/1779791670/bee2e1c9-b075-49b9-9055-4f14859c1b99.jpg"
+        ],
+        "video": {
+          "url": "https://a.nooncdn.com/cms/pages/20240617/5f1a515fbf8a70c7cf006da6d11ace6c/N53419349A.mp4",
+          "thumbnail_url": null,
+          "position": 1
+        },
+        "rating": {
+          "value": 4.1,
+          "count": 36,
+          "score_raw": 3.6
+        },
+        "in_stock": true,
+        "min_order_quantity": 1,
+        "low_stock_count": null,
+        "is_collection_eligible": true,
+        "seller": {
+          "name": "The Computer House",
+          "rating": 4.1,
+          "rating_count": 67,
+          "positive_rating_percent": 75,
+          "as_described_percent": null,
+          "logo_url": null
+        },
+        "is_bestseller": false,
+        "best_seller_rank": null,
+        "badges": [
+          "fbn",
+          "quick_atc"
+        ],
+        "highlights": [
+          {
+            "text": "Lowest price in 7 days",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/f68ba24b-4db6-4285-bbf4-1b34beec80a9.png"
+          },
+          {
+            "text": "Free Delivery",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png"
+          }
+        ],
+        "key_highlights": null,
+        "deal": null,
+        "promotion": {
+          "code": "FAB10",
+          "title": "Extra 10% off",
+          "detail": "Extra 10% off up to 50 AED with your FAB and Dubai first Mastercard Credit Cards",
+          "terms": [
+            "Extra 10% up to 50 AED off"
+          ],
+          "display_text": "CODE: FAB10",
+          "url": "https://www.noon.com/uae-en/bank-offers-ae"
+        },
+        "catalog_tag": {
+          "type": "lottie",
+          "code": "noon_choice",
+          "label": null,
+          "asset_url": "https://f.nooncdn.com/s/app/com/noon/images/noon_choice_prd.json"
+        },
+        "discount_tag_count": 1,
+        "specifications": {
+          "RAM Size": "8 GB",
+          "Internal Memory": "256 GB",
+          "Number of Cores": "Quad Core",
+          "Operating System": "Windows"
+        },
+        "variant_groups": [],
+        "is_sponsored": false,
+        "sponsored_label": null,
+        "market": "ae",
+        "currency": "AED",
+        "listing_language": "en"
+      }
+    ],
+    "totals": {
+      "estimated_matches": 1309,
+      "display_label": "1K+",
+      "is_estimate": true,
+      "retrievable_cap": 10000,
+      "exceeds_retrievable_cap": false
+    },
+    "pagination": {
+      "page": 1,
+      "page_size": 50,
+      "page_count": 27,
+      "max_page": 50,
+      "has_more": true
+    },
+    "sort": {
+      "by": "popularity",
+      "direction": "desc"
+    },
+    "applied": {
+      "query": "laptop",
+      "category": [],
+      "brand": [],
+      "sellers": [],
+      "deal_codes": [],
+      "filters": {}
+    },
+    "category_path": null,
+    "breadcrumbs": [],
+    "facets": [
+      {
+        "code": "brand",
+        "name": "Brand",
+        "type": "brand",
+        "values": [
+          {
+            "code": "hp",
+            "name": "HP",
+            "count": 0
+          },
+          {
+            "code": "lenovo",
+            "name": "Lenovo",
+            "count": 0
+          }
+        ],
+        "range": null
+      },
+      {
+        "code": "price",
+        "name": "Price",
+        "type": "price",
+        "values": null,
+        "range": {
+          "min": 164,
+          "max": 35999
+        }
+      }
+    ],
+    "resolved_as": "search"
+  }
+}

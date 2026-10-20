@@ -1,0 +1,337 @@
+{
+  "success": true,
+  "data": {
+    "sku": "N70211465V",
+    "title": "iPhone 17 Pro Max 256 GB (eSIM only) Cosmic Orange 5G With FaceTime - International Version",
+    "buy_box_offer_code": "f3c5559785715d9e",
+    "offer_count": 5,
+    "is_self_asserted_count": true,
+    "offers": [
+      {
+        "offer_code": "f3c5559785715d9e",
+        "sku": "N70211465V-1",
+        "sku_config": "N70211465V",
+        "position": 0,
+        "is_buy_box": true,
+        "seller": {
+          "code": "p-11522",
+          "name": "callmate",
+          "rating": 4.9,
+          "rating_count": 8933,
+          "positive_rating_percent": 88,
+          "as_described_percent": 90,
+          "logo_url": "https://p.nooncdn.com/reviews-partners/partner_assets/11522/logo_ae_1664287649.942161.png",
+          "badges": [],
+          "metrics": [
+            {
+              "id": "as_described_rate",
+              "title": "Item as shown",
+              "value": 90,
+              "icon_url": "https://z.nooncdn.com/nr/seller_badges/product_as_described.png",
+              "color": "#38AE04"
+            },
+            {
+              "id": "partner_since",
+              "title": "Partner since",
+              "value": 8,
+              "icon_url": "https://z.nooncdn.com/nr/seller_badges/partner_icon.png",
+              "color": "#2BB202"
+            }
+          ]
+        },
+        "price": 4496,
+        "original_price": 5099,
+        "discount_percent": 12,
+        "price_source": null,
+        "stock": 3,
+        "min_order_quantity": 1,
+        "in_stock": true,
+        "stock_message": null,
+        "is_returnable": true,
+        "return_policy": {
+          "code": "returnable_standard",
+          "text": "Easy and Hassle Free Returns",
+          "url": "https://www.noon.com/en-ae/return-policy"
+        },
+        "warranty": "1 year manufacturer warranty",
+        "warranty_code": "12_month_brand",
+        "has_extended_warranty": false,
+        "condition_note": null,
+        "is_bestseller": false,
+        "delivery": {
+          "message": "Get it Tomorrow",
+          "date": "10-12-2026, 17:00:00",
+          "expires": "2026-10-11T12:00Z",
+          "time_slot": null,
+          "shipping_fee_message": null
+        },
+        "badges": [
+          "nano",
+          "quick_atc"
+        ],
+        "offer_badges": [
+          {
+            "text": "High Rated\nSeller",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/98400019-443c-403a-b6c1-02731c2169d1.png"
+          },
+          {
+            "text": "Cash on \nDelivery",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/ff7c3e88-23de-44a6-8677-63347335d040.png"
+          }
+        ],
+        "highlights": [
+          {
+            "text": "#11 in Smartphones",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/f7013d8c-e4ef-4ebe-92d4-a36f4f20f0f0.png"
+          },
+          {
+            "text": "Lowest price in a year",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/f68ba24b-4db6-4285-bbf4-1b34beec80a9.png"
+          }
+        ],
+        "payment": {
+          "max_bnpl_installments": null,
+          "offers": [
+            {
+              "name": "cobrand",
+              "message": "Earn  224.80 cashback with the noon One Credit Card. Apply now",
+              "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/dc51a101-6010-420c-bcb8-9d9031c061de.png",
+              "action_type": "deeplink",
+              "action_url": "/emirates-nbd-noon-one-credit-card"
+            },
+            {
+              "name": "mashreq",
+              "message": "Earn  224.80 cashback with the Mashreq noon Credit Card. Apply now",
+              "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/c738e2a7-f68c-4353-9996-27f849fb90b5.png",
+              "action_type": "cms",
+              "action_url": "/mashreq-card-pdp"
+            }
+          ],
+          "emi_value": false,
+          "methods": null
+        },
+        "promotion": {
+          "code": "FAB10",
+          "title": "Extra 10% off",
+          "detail": "Extra 10% off up to 50 AED with your FAB and Dubai first Mastercard Credit Cards",
+          "terms": [
+            "Extra 10% up to 50 AED off"
+          ],
+          "display_text": "CODE: FAB10",
+          "url": "https://www.noon.com/uae-en/bank-offers-ae"
+        },
+        "promotions": [
+          {
+            "code": "FAB10",
+            "title": "Extra 10% off",
+            "detail": "Extra 10% off up to 50 AED with your FAB and Dubai first Mastercard Credit Cards",
+            "terms": [
+              "Extra 10% up to 50 AED off"
+            ],
+            "display_text": "CODE: FAB10",
+            "url": "https://www.noon.com/uae-en/bank-offers-ae"
+          },
+          {
+            "code": "RAK50",
+            "title": "Extra 15% off",
+            "detail": "Extra 15% off up to 50 AED with your Rakbank Credit Cards",
+            "terms": [
+              "Extra 15% up to 50 AED off"
+            ],
+            "display_text": "CODE: RAK50",
+            "url": "https://www.noon.com/uae-en/bank-offers-ae"
+          }
+        ],
+        "deal": {
+          "label": "Deal",
+          "text_color": "#008B0E",
+          "background_color": "#D7EFCD"
+        },
+        "freebies": [],
+        "trade_in": null,
+        "cashback": [
+          {
+            "provider": "enbd",
+            "message": "Earn  224.80 cashback with the noon One Credit Card. Apply now",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/bf9df54f-4cc8-47b9-8d92-3c6ea5e22087.png",
+            "background_color": "#c2fa70",
+            "url": "/emirates-nbd-noon-one-credit-card"
+          },
+          {
+            "provider": "mashreq",
+            "message": "Earn  224.80 cashback with the Mashreq noon Credit Card. Apply now",
+            "icon_url": null,
+            "background_color": "#FFFFFF",
+            "url": "/mashreq-card-pdp"
+          }
+        ],
+        "bundle": null,
+        "market": "ae",
+        "currency": "AED",
+        "listing_language": "en"
+      },
+      {
+        "offer_code": "b02e4d6ebf914cab",
+        "sku": "N70211465V-1",
+        "sku_config": "N70211465V",
+        "position": 1,
+        "is_buy_box": false,
+        "seller": {
+          "code": "p-369466",
+          "name": "Tevora",
+          "rating": 5,
+          "rating_count": 665,
+          "positive_rating_percent": 100,
+          "as_described_percent": 100,
+          "logo_url": null,
+          "badges": [],
+          "metrics": [
+            {
+              "id": "as_described_rate",
+              "title": "Item as shown",
+              "value": 100,
+              "icon_url": "https://z.nooncdn.com/nr/seller_badges/product_as_described.png",
+              "color": "#38AE04"
+            },
+            {
+              "id": "partner_since",
+              "title": "Partner since",
+              "value": 1,
+              "icon_url": "https://z.nooncdn.com/nr/seller_badges/partner_icon.png",
+              "color": "#2BB202"
+            }
+          ]
+        },
+        "price": 4749,
+        "original_price": 5099,
+        "discount_percent": 7,
+        "price_source": null,
+        "stock": 3,
+        "min_order_quantity": 1,
+        "in_stock": true,
+        "stock_message": null,
+        "is_returnable": true,
+        "return_policy": {
+          "code": "returnable_standard",
+          "text": "Easy and Hassle Free Returns",
+          "url": "https://www.noon.com/en-ae/return-policy"
+        },
+        "warranty": "1 year manufacturer warranty",
+        "warranty_code": "12_month_brand",
+        "has_extended_warranty": false,
+        "condition_note": null,
+        "is_bestseller": false,
+        "delivery": {
+          "message": "Get it Tomorrow",
+          "date": "10-12-2026, 17:00:00",
+          "expires": "2026-10-11T12:00Z",
+          "time_slot": null,
+          "shipping_fee_message": null
+        },
+        "badges": [
+          "nano",
+          "quick_atc"
+        ],
+        "offer_badges": [
+          {
+            "text": "High Rated\nSeller",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/98400019-443c-403a-b6c1-02731c2169d1.png"
+          },
+          {
+            "text": "Cash on \nDelivery",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/ff7c3e88-23de-44a6-8677-63347335d040.png"
+          }
+        ],
+        "highlights": [
+          {
+            "text": "#11 in Smartphones",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/f7013d8c-e4ef-4ebe-92d4-a36f4f20f0f0.png"
+          },
+          {
+            "text": "Lowest price in a year",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/f68ba24b-4db6-4285-bbf4-1b34beec80a9.png"
+          }
+        ],
+        "payment": {
+          "max_bnpl_installments": null,
+          "offers": [
+            {
+              "name": "cobrand",
+              "message": "Earn  237.45 cashback with the noon One Credit Card. Apply now",
+              "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/dc51a101-6010-420c-bcb8-9d9031c061de.png",
+              "action_type": "deeplink",
+              "action_url": "/emirates-nbd-noon-one-credit-card"
+            },
+            {
+              "name": "mashreq",
+              "message": "Earn  237.45 cashback with the Mashreq noon Credit Card. Apply now",
+              "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/c738e2a7-f68c-4353-9996-27f849fb90b5.png",
+              "action_type": "cms",
+              "action_url": "/mashreq-card-pdp"
+            }
+          ],
+          "emi_value": false,
+          "methods": null
+        },
+        "promotion": {
+          "code": "FAB10",
+          "title": "Extra 10% off",
+          "detail": "Extra 10% off up to 50 AED with your FAB and Dubai first Mastercard Credit Cards",
+          "terms": [
+            "Extra 10% up to 50 AED off"
+          ],
+          "display_text": "CODE: FAB10",
+          "url": "https://www.noon.com/uae-en/bank-offers-ae"
+        },
+        "promotions": [
+          {
+            "code": "FAB10",
+            "title": "Extra 10% off",
+            "detail": "Extra 10% off up to 50 AED with your FAB and Dubai first Mastercard Credit Cards",
+            "terms": [
+              "Extra 10% up to 50 AED off"
+            ],
+            "display_text": "CODE: FAB10",
+            "url": "https://www.noon.com/uae-en/bank-offers-ae"
+          },
+          {
+            "code": "RAK50",
+            "title": "Extra 15% off",
+            "detail": "Extra 15% off up to 50 AED with your Rakbank Credit Cards",
+            "terms": [
+              "Extra 15% up to 50 AED off"
+            ],
+            "display_text": "CODE: RAK50",
+            "url": "https://www.noon.com/uae-en/bank-offers-ae"
+          }
+        ],
+        "deal": null,
+        "freebies": [],
+        "trade_in": null,
+        "cashback": [
+          {
+            "provider": "enbd",
+            "message": "Earn  237.45 cashback with the noon One Credit Card. Apply now",
+            "icon_url": "https://f.nooncdn.com/mpcms/EN0001/assets/bf9df54f-4cc8-47b9-8d92-3c6ea5e22087.png",
+            "background_color": "#c2fa70",
+            "url": "/emirates-nbd-noon-one-credit-card"
+          },
+          {
+            "provider": "mashreq",
+            "message": "Earn  237.45 cashback with the Mashreq noon Credit Card. Apply now",
+            "icon_url": null,
+            "background_color": "#FFFFFF",
+            "url": "/mashreq-card-pdp"
+          }
+        ],
+        "bundle": null,
+        "market": "ae",
+        "currency": "AED",
+        "listing_language": "en"
+      }
+    ],
+    "market": "ae",
+    "currency": "AED",
+    "listing_language": "en"
+  }
+}
